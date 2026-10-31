@@ -101,8 +101,10 @@ medxpert-deficiency-reply-skill/
 │   ├── eu-mdr-deficiency-types.md    ← 欧盟MDR常见发补类型
 │   └── cn-nmpa-deficiency-types.md   ← 中国NMPA常见发补类型
 └── assets/
-    └── examples/
-        └── example-reply-frame.md     ← 完整回复框架示例
+    └── cases/
+        ├── README.md                 ← 案例库索引与案例结构说明
+        └── US-001-orthopedic-external-fixator-recall.md
+                                       ← 真实发补案例：Predicate被认定不成立
 ```
 
 ---
